@@ -87,3 +87,6 @@ build-iPhoneSimulator/
 /pkg/
 /spec/reports/
 /tmp/
+
+# Vagrant
+.vagrant
